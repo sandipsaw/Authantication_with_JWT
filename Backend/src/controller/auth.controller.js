@@ -1,6 +1,5 @@
 const authmodel = require('../models/auth.models')
 const jwt = require('jsonwebtoken')
-const cookie = require('cookie-parser')
 const bcrypt = require('bcryptjs')
 
 
